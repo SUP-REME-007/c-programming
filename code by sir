@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main(){
+    printf("line 1\n");
+    printf("column 1\tcolumn 2\tcolumn 3\n");
+    printf("this is a blackslash: \\ \n");
+    printf("it\'s a bird! it's a plane!\n");
+    printf("hello\b world\n");
+    printf("original text\rReplaced text \n");//output: replaced text  
+    printf("original textReplaced text \n");//output: original textreplaced text
+    return 0;
+}

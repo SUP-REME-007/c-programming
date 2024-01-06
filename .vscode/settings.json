@@ -1,0 +1,9 @@
+{
+    "cmake.configureOnOpen": false,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.fileDirectoryAsCwd": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.saveAllFilesBeforeRun": false,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.showExecutionMessage": false
+}
